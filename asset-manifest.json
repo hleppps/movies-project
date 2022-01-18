@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hleppps/movies-projectgit%20init/static/css/main.562c6ffb.chunk.css",
-    "main.js": "/hleppps/movies-projectgit%20init/static/js/main.c1c9299c.chunk.js",
-    "main.js.map": "/hleppps/movies-projectgit%20init/static/js/main.c1c9299c.chunk.js.map",
-    "runtime-main.js": "/hleppps/movies-projectgit%20init/static/js/runtime-main.7e2fb916.js",
-    "runtime-main.js.map": "/hleppps/movies-projectgit%20init/static/js/runtime-main.7e2fb916.js.map",
-    "static/css/2.c1256375.chunk.css": "/hleppps/movies-projectgit%20init/static/css/2.c1256375.chunk.css",
-    "static/js/2.b6c70da5.chunk.js": "/hleppps/movies-projectgit%20init/static/js/2.b6c70da5.chunk.js",
-    "static/js/2.b6c70da5.chunk.js.map": "/hleppps/movies-projectgit%20init/static/js/2.b6c70da5.chunk.js.map",
-    "index.html": "/hleppps/movies-projectgit%20init/index.html",
-    "static/css/2.c1256375.chunk.css.map": "/hleppps/movies-projectgit%20init/static/css/2.c1256375.chunk.css.map",
-    "static/css/main.562c6ffb.chunk.css.map": "/hleppps/movies-projectgit%20init/static/css/main.562c6ffb.chunk.css.map",
-    "static/js/2.b6c70da5.chunk.js.LICENSE.txt": "/hleppps/movies-projectgit%20init/static/js/2.b6c70da5.chunk.js.LICENSE.txt"
+    "main.css": "/hleppps/movies-project/static/css/main.562c6ffb.chunk.css",
+    "main.js": "/hleppps/movies-project/static/js/main.c1c9299c.chunk.js",
+    "main.js.map": "/hleppps/movies-project/static/js/main.c1c9299c.chunk.js.map",
+    "runtime-main.js": "/hleppps/movies-project/static/js/runtime-main.56c5d270.js",
+    "runtime-main.js.map": "/hleppps/movies-project/static/js/runtime-main.56c5d270.js.map",
+    "static/css/2.c1256375.chunk.css": "/hleppps/movies-project/static/css/2.c1256375.chunk.css",
+    "static/js/2.b6c70da5.chunk.js": "/hleppps/movies-project/static/js/2.b6c70da5.chunk.js",
+    "static/js/2.b6c70da5.chunk.js.map": "/hleppps/movies-project/static/js/2.b6c70da5.chunk.js.map",
+    "index.html": "/hleppps/movies-project/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/hleppps/movies-project/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.562c6ffb.chunk.css.map": "/hleppps/movies-project/static/css/main.562c6ffb.chunk.css.map",
+    "static/js/2.b6c70da5.chunk.js.LICENSE.txt": "/hleppps/movies-project/static/js/2.b6c70da5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e2fb916.js",
+    "static/js/runtime-main.56c5d270.js",
     "static/css/2.c1256375.chunk.css",
     "static/js/2.b6c70da5.chunk.js",
     "static/css/main.562c6ffb.chunk.css",
